@@ -12,16 +12,16 @@
 <h3>Contact</h3>
 
 <p>
-  <a href="mailto:wkdgusqhd080@gmail.com" target="_blank">
+  <a href="mailto:wkdgusqhd080@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /> 
   </a> &nbsp;
-  <a href="https://www.instagram.com/brightbong92/" target="_blank">
+  <a href="https://www.instagram.com/brightbong92/" target="_blank" rel="noreferrer">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /> 
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/%ED%98%84%EB%B4%89-%EC%9E%A5-a61b631b9" target="_blank">
+  <a href="https://www.linkedin.com/in/%ED%98%84%EB%B4%89-%EC%9E%A5-a61b631b9" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a> &nbsp;
-  <a href="https://www.brightbong.me/blog" target="_blank">
+  <a href="https://www.brightbong.me/blog" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white" /> 
   </a>
 </p>
