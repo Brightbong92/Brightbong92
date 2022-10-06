@@ -43,7 +43,7 @@
 </p>
 
 
-<h3>Stuyding</h3>
+<h3>Study</h3>
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
 </p>
