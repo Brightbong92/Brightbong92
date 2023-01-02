@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/%ED%98%84%EB%B4%89-%EC%9E%A5-a61b631b9" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a> &nbsp;
-  <a href="https://www.brightbong.me/blog" target="_blank" rel="noreferrer">
+  <a href="https://www.brightbong.me/blog/X4M8mwzICLzNvYiNNFsx" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white" /> 
   </a>
 </p>
