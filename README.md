@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/%ED%98%84%EB%B4%89-%EC%9E%A5-a61b631b9" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a> &nbsp;
-  <a href="https://www.brightbong.me/blog/X4M8mwzICLzNvYiNNFsx" target="_blank" rel="noreferrer">
+  <a href="https://brightbong.tistory.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white" /> 
   </a>
 </p>
@@ -45,8 +45,9 @@
 
 <h3>Study</h3>
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" /> -->
 </p>
 
 
