@@ -10,7 +10,7 @@
 <h3>Contact</h3>
 
 <p>
-  <a href="https://dapper-plot-79d.notion.site/e17fe826171a445aa27ba5c05c5d4f1f" target="_blank" rel="noreferrer">
+  <a href="https://www.notion.so/_-4d20b710b2e743fe83566f9ecc338300?pvs=4" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/About.me-00A98F?style=flat-square&logo=About.me&logoColor=white" />
   </a> &nbsp;
   <a href="mailto:wkdgusqhd080@gmail.com" target="_blank" rel="noreferrer">
