@@ -36,11 +36,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=orange" /> &nbsp;
-  <br /> <br />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" /> &nbsp;
+  <br /> <br />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white" /> &nbsp;
 </p>
 
 
