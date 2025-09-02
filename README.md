@@ -2,14 +2,17 @@
 <h3>About Me</h3>
 
 <p>
-  I am a passionate developer who enjoys exploring a wide range of technologies without limiting myself to a single stack.  
-  <br/>
-  I have strong interests in automation, declarative programming, functional programming, and cutting-edge technologies.  
-  <br/>
-  With experience across frontend, backend, and mobile development, I also enjoy working in DevOps areas, bridging the gap between development and operations.  
-  <br/>
-  My curiosity drives me to continuously learn, experiment, and adopt new tools or approaches that can improve productivity, scalability, and developer experience.
+  I’m a developer who enjoys exploring new technologies and building without limits.  
 </p>
+
+<p>
+  I have a strong interest in automation, declarative programming, and modern tools that make development more efficient.  
+</p>
+
+<p>
+  My experience spans frontend, backend, where I like to connect ideas and improve how things are built and run.  
+</p>
+
 <h3>Contact</h3>
 
 <p>
