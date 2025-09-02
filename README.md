@@ -2,11 +2,14 @@
 <h3>About Me</h3>
 
 <p>
-  편식없이 다양한 개발분야에 관심을 가지고 있는 개발자입니다.
+  I am a passionate developer who enjoys exploring a wide range of technologies without limiting myself to a single stack.  
   <br/>
-  새로운것을 탐구하고 습득하는것을 좋아합니다.
+  I have strong interests in automation, declarative programming, functional programming, and cutting-edge technologies.  
+  <br/>
+  With experience across frontend, backend, and mobile development, I also enjoy working in DevOps areas, bridging the gap between development and operations.  
+  <br/>
+  My curiosity drives me to continuously learn, experiment, and adopt new tools or approaches that can improve productivity, scalability, and developer experience.
 </p>
-
 <h3>Contact</h3>
 
 <p>
