@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  I have a strong interest in automation, declarative programming, and modern tools that make development more efficient.  
+  I have a strong interest in automation, declarative programming, functional programming and modern tools that make development more efficient.  
 </p>
 
 <p>
